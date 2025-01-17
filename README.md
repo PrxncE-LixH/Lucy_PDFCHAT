@@ -1,3 +1,4 @@
+# Lucy PDF Chat
 
 This is a Retrieval-Augmented Generation (RAG) model that allows users to upload documents and ask questions. It uses the BM25 algorithm to find the best match for the user's query and utilizes a large language model (LLM), specifically GPT, to generate responses based on the retrieved documents.
 # Features
