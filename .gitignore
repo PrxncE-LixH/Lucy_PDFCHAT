@@ -1,0 +1,40 @@
+# .gitignore
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# .pdf and .csv files
+*.pdf
+*.csv
+entrypoint.txt
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+
+# pyenv
+.python-version
+
+# dotenv environment variables file
+.env
+src/.env
+
+# virtual environment
+venv
+lucypdf
+
+# mkdocs documentation
+data/sentencetransformers
+data/faiss-db
+models/sentencetransformers
+Dockerfile
+LICENSE
