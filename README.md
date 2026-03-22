@@ -13,10 +13,6 @@ LLM Response Generation: The model generates coherent and contextually relevant 
 
 ## Demo
 
-```
-https://firebasestorage.googleapis.com/v0/b/tomatoguard-2110e.appspot.com/o/Screencast%20from%202025-01-12%2011-06-14.webm?alt=media&token=ef4df5be-1fe1-41d5-99f0-ad47c7d91425 
-```
-
 ![image](https://firebasestorage.googleapis.com/v0/b/tomatoguard-2110e.appspot.com/o/LC.png?alt=media&token=823847e4-3cfe-4ced-bbba-f72fb4759fd6)
 ## Authors
 
